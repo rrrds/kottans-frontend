@@ -2,6 +2,10 @@
 
 ## Git and GitHub
 
+### Pull-request
+	
+https://github.com/kottans/mock-repo/pull/169
+
 ### Screenshots
 
 - Udacity - How to Use Git and GitHub [\[1\]](task_git_intro/udacity_using_git.png)
