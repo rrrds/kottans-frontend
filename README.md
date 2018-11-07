@@ -2,6 +2,8 @@
 
 ## Git and GitHub
 
+The course from Udemy helped a lot with basic work with git and github. These skills helped me easily complete the first half of the tasks on Learn Git Branching. Now any project\experiment will be started with a git init!
+
 ### Pull-request
 	
 https://github.com/kottans/mock-repo/pull/169
