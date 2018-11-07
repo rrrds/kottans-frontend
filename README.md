@@ -13,6 +13,8 @@ https://github.com/kottans/mock-repo/pull/169
 
 ## Linux CLI, and HTTP
 
+It was easy enough to finish the CLI course. The HTTP tutorial briefly describes the basic information, which is excellent as an introduction. It was interesting to learn about persistent connections and cache management through headers.
+
 ### Screenshots
 
 - Codecademy - Learn the Command Line [\[1\]](task_linux_cli/codecademy_linux_cli.png)
