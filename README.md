@@ -20,3 +20,9 @@ It was easy enough to finish the CLI course. The HTTP tutorial briefly describes
 ### Screenshots
 
 - Codecademy - Learn the Command Line [\[1\]](task_linux_cli/codecademy_linux_cli.png)
+
+## Git Collaboration
+
+### Screenshots
+
+- Udacity - Version Control with Git [\[1\]](task_git_collaboration/udacity_version_control.png)
