@@ -26,3 +26,4 @@ It was easy enough to finish the CLI course. The HTTP tutorial briefly describes
 ### Screenshots
 
 - Udacity - Version Control with Git [\[1\]](task_git_collaboration/udacity_version_control.png)
+- Udacity - GitHub & Collaboration [\[1\]](task_git_collaboration/udacity_collaboration.png)
