@@ -23,6 +23,8 @@ It was easy enough to finish the CLI course. The HTTP tutorial briefly describes
 
 ## Git Collaboration
 
+In this lesson was more theory about git. Courses helped to deal with commits squashing, pull requests and upstream repositories.
+
 ### Screenshots
 
 - Udacity - Version Control with Git [\[1\]](task_git_collaboration/udacity_version_control.png)
