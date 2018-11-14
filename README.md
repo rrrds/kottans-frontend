@@ -29,3 +29,5 @@ In this lesson was more theory about git. Courses helped to deal with commits sq
 
 - Udacity - Version Control with Git [\[1\]](task_git_collaboration/udacity_version_control.png)
 - Udacity - GitHub & Collaboration [\[1\]](task_git_collaboration/udacity_collaboration.png)
+
+## Intro to HTML and CSS
