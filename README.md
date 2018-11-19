@@ -31,3 +31,9 @@ In this lesson was more theory about git. Courses helped to deal with commits sq
 - Udacity - GitHub & Collaboration [\[1\]](task_git_collaboration/udacity_collaboration.png)
 
 ## Intro to HTML and CSS
+
+### Screenshots
+
+- Udacity - Intro to HTML and CSS [\[1\]](task_html_css_intro/udacity.com_courses_html.png)
+- HTML Academy - Basics of HTML [\[1\]](task_html_css_intro/htmlacademy.ru_courses_basic-html.png)
+- HTML Academy - Basics of CSS [\[1\]](task_html_css_intro/htmlacademy.ru_courses_basic-css.png)
