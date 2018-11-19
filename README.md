@@ -32,6 +32,9 @@ In this lesson was more theory about git. Courses helped to deal with commits sq
 
 ## Intro to HTML and CSS
 
+I learned something new\interesting from basic courses: i\em, b\strong, ins\del tags.
+Rules for calculating the weight of the selector surprised me.
+
 ### Screenshots
 
 - Udacity - Intro to HTML and CSS [\[1\]](task_html_css_intro/udacity.com_courses_html.png)
