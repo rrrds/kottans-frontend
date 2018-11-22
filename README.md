@@ -43,6 +43,8 @@ Rules for calculating the weight of the selector surprised me.
 
 ## Responsive Web Design
 
+Lerned about mobile device viewport, pixel ratio and [DIP](https://en.wikipedia.org/wiki/Device-independent_pixel). One more time finished Froggy game :)
+
 ### Screenshots
 
 - Udacity - Responsive Web Design Fundamentals [\[1\]](task_responsive_web_design/udacity.com_courses_responsive.png)
