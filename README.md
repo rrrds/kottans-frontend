@@ -40,3 +40,10 @@ Rules for calculating the weight of the selector surprised me.
 - Udacity - Intro to HTML and CSS [\[1\]](task_html_css_intro/udacity.com_courses_html.png)
 - HTML Academy - Basics of HTML [\[1\]](task_html_css_intro/htmlacademy.ru_courses_basic-html.png)
 - HTML Academy - Basics of CSS [\[1\]](task_html_css_intro/htmlacademy.ru_courses_basic-css.png)
+
+## Responsive Web Design
+
+### Screenshots
+
+- Udacity - Responsive Web Design Fundamentals [\[1\]](task_responsive_web_design/udacity.com_courses_responsive.png)
+- Flexbox Froggy [\[1\]](task_responsive_web_design/flexboxfroggy.com.png)
