@@ -49,3 +49,11 @@ Lerned about mobile device viewport, pixel ratio and [DIP](https://en.wikipedia.
 
 - Udacity - Responsive Web Design Fundamentals [\[1\]](task_responsive_web_design/udacity.com_courses_responsive.png)
 - Flexbox Froggy [\[1\]](task_responsive_web_design/flexboxfroggy.com.png)
+
+## JS Basics
+
+
+### Screenshots
+
+- Udacity - Intro to JS [\[1\]](task_js_basics/udacity.com_intro_to_js.png)
+- freeCodeCamp - Algorithm Scripting Challenges [\[1\]](task_js_basics/freecodecamp_scripting_challenges.png)
