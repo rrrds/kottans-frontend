@@ -52,6 +52,8 @@ Lerned about mobile device viewport, pixel ratio and [DIP](https://en.wikipedia.
 
 ## JS Basics
 
+There were some interesting topics in JS Intro, such as hoisting in JS.
+freeCodeCamp's challenges were fun to solve.
 
 ### Screenshots
 
