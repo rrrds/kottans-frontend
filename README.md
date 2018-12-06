@@ -62,6 +62,8 @@ freeCodeCamp's challenges were fun to solve.
 
 ## DOM
 
+Really liked event bubbling mechanism and stages order. Looking forward to play around with *Performance.now()*
+
 ### Screenshots
 
 - Udacity - JavaScript and the DOM [\[1\]](task_js_dom/udacity.com_dom.png)
