@@ -59,3 +59,10 @@ freeCodeCamp's challenges were fun to solve.
 
 - Udacity - Intro to JS [\[1\]](task_js_basics/udacity.com_intro_to_js.png)
 - freeCodeCamp - Algorithm Scripting Challenges [\[1\]](task_js_basics/freecodecamp_scripting_challenges.png)
+
+## DOM
+
+### Screenshots
+
+- Udacity - JavaScript and the DOM [\[1\]](task_js_dom/udacity.com_dom.png)
+- freeCodeCamp - Algorithm Scripting Challenges [\[1\]](task_js_dom/freecodecamp_scripting_challenges.png)
