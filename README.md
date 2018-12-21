@@ -71,7 +71,7 @@ Really liked event bubbling mechanism and stages order. Looking forward to play 
 
 ### Practical task
 
-    [PR](https://github.com/kottans/frontend-2019-homeworks/pull/91) - Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
-    [Demo](https://rrrds.github.io/kottans-hw-dom/)
-    [Code base](https://github.com/rrrds/kottans-hw-dom)
+[PR](https://github.com/kottans/frontend-2019-homeworks/pull/91) - Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
+[Demo](https://rrrds.github.io/kottans-hw-dom/)
+[Code base](https://github.com/rrrds/kottans-hw-dom)
     
