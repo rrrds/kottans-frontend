@@ -68,3 +68,10 @@ Really liked event bubbling mechanism and stages order. Looking forward to play 
 
 - Udacity - JavaScript and the DOM [\[1\]](task_js_dom/udacity.com_dom.png)
 - freeCodeCamp - Algorithm Scripting Challenges [\[1\]](task_js_dom/freecodecamp_scripting_challenges.png)
+
+### Practical task
+
+    [PR](https://github.com/kottans/frontend-2019-homeworks/pull/91) - Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
+    [Demo](https://rrrds.github.io/kottans-hw-dom/)
+    [Code base](https://github.com/rrrds/kottans-hw-dom)
+    
