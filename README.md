@@ -59,6 +59,7 @@ freeCodeCamp's challenges were fun to solve.
 
 - Udacity - Intro to JS [\[1\]](task_js_basics/udacity.com_intro_to_js.png)
 - freeCodeCamp - Algorithm Scripting Challenges [\[1\]](task_js_basics/freecodecamp_scripting_challenges.png)
+- egghead.io - Data Structures and Algorithms in JavaScript [\[1\]](task_js_basics/egghead.io_data-structures-and-algorithms-in-javascript.png)
 
 ## DOM
 
