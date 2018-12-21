@@ -60,3 +60,19 @@ freeCodeCamp's challenges were fun to solve.
 - Udacity - Intro to JS [\[1\]](task_js_basics/udacity.com_intro_to_js.png)
 - freeCodeCamp - Algorithm Scripting Challenges [\[1\]](task_js_basics/freecodecamp_scripting_challenges.png)
 - egghead.io - Data Structures and Algorithms in JavaScript [\[1\]](task_js_basics/egghead.io_data-structures-and-algorithms-in-javascript.png)
+
+## DOM
+
+Really liked event bubbling mechanism and stages order. Looking forward to play around with *Performance.now()*
+
+### Screenshots
+
+- Udacity - JavaScript and the DOM [\[1\]](task_js_dom/udacity.com_dom.png)
+- freeCodeCamp - Algorithm Scripting Challenges [\[1\]](task_js_dom/freecodecamp_scripting_challenges.png)
+
+### Practical task
+
+    [PR](https://github.com/kottans/frontend-2019-homeworks/pull/91) - Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
+    [Demo](https://rrrds.github.io/kottans-hw-dom/)
+    [Code base](https://github.com/rrrds/kottans-hw-dom)
+    
