@@ -104,3 +104,11 @@ Really liked event bubbling mechanism and stages order. Looking forward to play 
 [PR](https://github.com/kottans/frontend-2019-homeworks/pull/161) - Reviewed and approved by [@yevhenorlov](https://github.com/yevhenorlov)
 [Demo](https://rrrds.github.io/a-tiny-JS-world/)
 [Code base](https://github.com/rrrds/a-tiny-JS-world)
+
+## Memory Pair Game
+
+### Practical task
+
+[PR](https://github.com/kottans/frontend-2019-homeworks/pull/183) - Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna), [@IgorKurkov](https://github.com/IgorKurkov), [@A-Ostrovnyy](https://github.com/A-Ostrovnyy)
+[Demo](https://rrrds.github.io/memory-pair-game/)
+[Code base](https://github.com/rrrds/memory-pair-game)
