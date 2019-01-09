@@ -96,3 +96,11 @@ Really liked event bubbling mechanism and stages order. Looking forward to play 
 [PR](https://github.com/kottans/frontend-2019-homeworks/pull/158) - Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
 [Demo](https://rrrds.github.io/frontend-nanodegree-arcade-game/index.html)
 [Code base](https://github.com/rrrds/frontend-nanodegree-arcade-game)
+
+## OOP Exercise
+
+### Practical task - a Tiny JS World OOP
+
+[PR](https://github.com/kottans/frontend-2019-homeworks/pull/161) - Reviewed and approved by [@yevhenorlov](https://github.com/yevhenorlov)
+[Demo](https://rrrds.github.io/a-tiny-JS-world/)
+[Code base](https://github.com/rrrds/a-tiny-JS-world)
