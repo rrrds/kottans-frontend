@@ -83,3 +83,16 @@ Really liked event bubbling mechanism and stages order. Looking forward to play 
 [PR](https://github.com/kottans/frontend-2019-homeworks/pull/91) - Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
 [Demo](https://rrrds.github.io/kottans-hw-dom/)
 [Code base](https://github.com/rrrds/kottans-hw-dom)
+
+## Object Oriented JS
+
+### Screenshots
+
+- Udacity - JavaScript and the DOM [\[1\]](task_oop_js/udacity.com_oopjs.png)
+- codewars [\[1\]](task_oop_js/codewars.png)
+
+### Practical task - Frogger
+
+[PR](https://github.com/kottans/frontend-2019-homeworks/pull/158) - Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
+[Demo](https://rrrds.github.io/frontend-nanodegree-arcade-game/index.html)
+[Code base](https://github.com/rrrds/frontend-nanodegree-arcade-game)
