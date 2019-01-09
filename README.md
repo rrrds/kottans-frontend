@@ -112,3 +112,11 @@ Really liked event bubbling mechanism and stages order. Looking forward to play 
 [PR](https://github.com/kottans/frontend-2019-homeworks/pull/183) - Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna), [@IgorKurkov](https://github.com/IgorKurkov), [@A-Ostrovnyy](https://github.com/A-Ostrovnyy)
 [Demo](https://rrrds.github.io/memory-pair-game/)
 [Code base](https://github.com/rrrds/memory-pair-game)
+
+## Friends App
+
+### Practical task
+
+[PR](https://github.com/kottans/frontend-2019-homeworks/pull/252) - Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
+[Demo](https://rrrds.github.io/friends-app/index.html)
+[Code base](https://github.com/rrrds/friends-app)
